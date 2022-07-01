@@ -5,11 +5,10 @@
 "dataUrl": "WebAR-WebApp04B.data.unityweb",
 "wasmCodeUrl": "WebAR-WebApp04B.wasm",
 "wasmFrameworkUrl": "WebAR-WebApp04B.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
 
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.28f1"
